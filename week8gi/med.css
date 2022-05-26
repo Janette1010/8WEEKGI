@@ -1,0 +1,15 @@
+.grid-con {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+
+.item {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
